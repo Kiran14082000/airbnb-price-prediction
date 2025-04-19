@@ -42,13 +42,11 @@ This project aims to predict Airbnb listing prices using various machine learnin
 
 ## 🧠 Model Performance
 
-| Model              | Train R² | Test R² | Train MSE | Test MSE |
-|-------------------|----------|---------|-----------|----------|
-| Linear Regression |   ~0.94  |  ~0.93  |    —      |    —     |
-| Random Forest     |   ~0.98  |  ~0.96  |    —      |    —     |
-| MLP Neural Net    |   ~0.94  |  ~0.94  |    —      |    —     |
-
-*Note: Replace metrics with your actual values from the notebook.*
+| Model               | Train R² | Test R² |  Train RMSE | Test RMSE |
+|---------------------|----------|---------| ----------- |---------- |
+| Random Forest       |   ~0.87  |  ~0.86  |    —        |    —      |
+| Random Forest Tuned |   ~0.89  |  ~0.88  |    —        |    —      |
+| MLP Neural Net      |   ~0.86  |  ~0.85  |    —        |    —      |
 
 ---
 
@@ -99,4 +97,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Kiran Gobi Manivannan**  
 📧 kiranxgobi@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/kiran14082000) • [GitHub](https://github.com/Kiran14082000)
+🔗 [LinkedIn](https://www.linkedin.com/in/kirangobimanivannan/) • [GitHub](https://github.com/Kiran14082000)
